@@ -36,3 +36,9 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# local one-click preview
+/.local-server.pid
+/.local-server.out.log
+/.local-server.err.log
+
